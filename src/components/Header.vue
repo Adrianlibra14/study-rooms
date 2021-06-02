@@ -16,7 +16,7 @@
       <div class="header__menu">
         <ul class="header__menu-list">
           <li class="header__list-item">
-            <router-link to="/Inicio" class="header__router"
+            <router-link to="/" class="header__router"
               >Inicio
             </router-link>
           </li>
