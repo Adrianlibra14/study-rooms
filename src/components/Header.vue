@@ -55,7 +55,7 @@
     <div class="header__elements">
       <div class="header__item">
         <h4 class="header__size">
-          <router-link to="/Inicio" class="header__text">Inicio</router-link>
+          <router-link to="/" class="header__text">Inicio</router-link>
         </h4>
       </div>
 
