@@ -9,7 +9,7 @@ import Footer from '@/views/Footer.vue'
 
 const routes = [
   {
-    path: '/Inicio',
+    path: '/',
     name: 'Inicio',
     component: Inicio
   },
